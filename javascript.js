@@ -4,7 +4,7 @@ function countSheeps(list) {
     if (sheepCount > 0) {
         return `There are ${sheepCount} sheep in total`;
     } else {
-        return `UPS!!! Wolfs eaten Sheeps`;
+        return `UPS Wolfs eaten Sheeps`;
     }
 }
 
